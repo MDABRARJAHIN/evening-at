@@ -1,8 +1,8 @@
 <p>
-	<img src="https://github.com/usama-akram-gt/evening-at/blob/master/screenshots/1.jpeg" width="200" height="400">
-	<img src="https://github.com/usama-akram-gt/evening-at/blob/master/screenshots/2.jpeg" width="200" height="400">
-	<img src="https://github.com/usama-akram-gt/evening-at/blob/master/screenshots/3.jpeg" width="200" height="400">
-	<img src="https://github.com/usama-akram-gt/evening-at/blob/master/screenshots/4.jpeg" width="200" height="400">
+	<img src="https://github.com/MDABRARJAHIN/evening-at/blob/master/screenshots/1.jpeg" width="200" height="400">
+	<img src="https://github.com/MDABRARJAHIN/evening-at/blob/master/screenshots/2.jpeg" width="200" height="400">
+	<img src="https://github.com/MDABRARJAHIN/evening-at/blob/master/screenshots/3.jpeg" width="200" height="400">
+	<img src="https://github.com/MDABRARJAHIN/evening-at/blob/master/screenshots/4.jpeg" width="200" height="400">
 </p>
 
 # Evening-At
@@ -28,7 +28,7 @@ Get up and running with our Movies sample app:
 
 1. Once you have the repo cloned using 
 ```
-git clone https://github.com/usama-akram-gt/evening-at.git
+git clone https://github.com/MDABRARJAHIN/evening-at.git
 ```
 and met all the requirements above, start the
 packager that will transform your JS code on-the-fly:
