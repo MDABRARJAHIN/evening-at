@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "664535516928",
+    "firebase_url": "https://evening-at-default-rtdb.firebaseio.com",
+    "project_id": "evening-at",
+    "storage_bucket": "evening-at.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664535516928:android:785895b4fd57f2f7d8d5e5",
+        "android_client_info": {
+          "package_name": "com.evening_at"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664535516928-a1fdn2rr04cof5ttjkh97d5q5t4eikga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.evening_at",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "664535516928-cem40cclom0e9mukmumfuglu8dbvvfbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEonPwpB8AjmVvlVLwB_0P8GnwvJCLsC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664535516928-cem40cclom0e9mukmumfuglu8dbvvfbi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "664535516928-i2clm4571llpr1h8dvq8p64a1o1o56g9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.evening-at"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
